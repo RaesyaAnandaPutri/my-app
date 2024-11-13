@@ -1,0 +1,14 @@
+C:\Users\user\raesya\ConsoleApp1\bin\Debug\net8.0\aritmatika.exe
+C:\Users\user\raesya\ConsoleApp1\bin\Debug\net8.0\aritmatika.deps.json
+C:\Users\user\raesya\ConsoleApp1\bin\Debug\net8.0\aritmatika.runtimeconfig.json
+C:\Users\user\raesya\ConsoleApp1\bin\Debug\net8.0\aritmatika.dll
+C:\Users\user\raesya\ConsoleApp1\bin\Debug\net8.0\aritmatika.pdb
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\aritmatika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\aritmatika.AssemblyInfoInputs.cache
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\aritmatika.AssemblyInfo.cs
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\aritmatika.csproj.CoreCompileInputs.cache
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\aritmatika.dll
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\refint\aritmatika.dll
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\aritmatika.pdb
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\aritmatika.genruntimeconfig.cache
+C:\Users\user\raesya\ConsoleApp1\obj\Debug\net8.0\ref\aritmatika.dll
